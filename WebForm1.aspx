@@ -5,59 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-        <style>
-        body {
-    margin:0;
-    padding:0;
-}
-
-header {
-    width: 100%;
-    height: 50px;
-    background-color: steelblue;
-    align-items: center;
-}
-
-header p{
-    font-size:30px;
-    color:white;
-}
-
-.menu {
-    display: flex;
-    align-items: center;
-    height: 40px;
-    background-color: midnightblue;
-    padding-left:10px;
-}
-
-.menu .dumge {
-    width: 150px;
-    height: 30px;
-    background-color: royalblue;
-    color: white;
-}
-.naslov{
-    font-family:monospace,"Courier New";
-    font-size:20px;
-}
-            
-            .auto-style7 {
-                width: 24%;
-            }
-            
-            .auto-style8 {
-                width: 60px;
-            }
-            
-            .auto-style9 {
-                width: 16px;
-            }
-            .auto-style10 {
-                width: 26px;
-            }
-            
-        </style>
+ <link rel="stylesheet" type="text/css" href="../css/StyleSheet2.css">
 </head>
 <body>
 <form id="form1" runat="server">
